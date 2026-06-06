@@ -7,7 +7,7 @@ This file serves as the foundational project instructions and persistent context
 - **Framework:** Vue 3 (Composition API).
 - **Animations:** GSAP (GreenSock Animation Platform) + ScrollTrigger for scroll-based storytelling.
 - **Visual Assets:** Primarily handcrafted SVGs to ensure high performance and mobile responsiveness.
-- **Styling:** Tailwind CSS for utility-first styling.
+- **Styling:** Vanilla CSS scoped within Vue SFCs, leveraging standard flex/grid layouts.
 
 ## 🎨 Design Philosophy & Conventions
 
