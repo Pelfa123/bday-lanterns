@@ -47,10 +47,10 @@
     <!-- Content -->
     <div class="content-wrapper">
       <section class="intro-section">
-        <h1 class="header-main">Happy Birthday<br>My Love! ✨</h1>
-        <p class="romance-sub">Our Lantern Story</p>
+        <h1 class="header-main">Happy Birthday<br>BABYYY!! ✨</h1>
+        <p class="romance-sub">Our Lanterns</p>
         <div class="scroll-indicator">
-          <p>Scroll down...</p>
+          <p>Scroll down... PLAY MO MUNA UNG MUSIC SA TOP RIGHT</p>
           <div class="mouse">
             <div class="wheel"></div>
           </div>
